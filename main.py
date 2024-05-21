@@ -1,4 +1,5 @@
-from funcs import sum_num
+from funcs import sum_num, subtraction
 
 
 sum_num()
+subtraction()
